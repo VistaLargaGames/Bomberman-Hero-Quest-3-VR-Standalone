@@ -1,4 +1,6 @@
-# Bomberman-Hero-Quest-3-VR-Standalone
+<img width="1984" height="992" alt="image (1)" src="https://github.com/user-attachments/assets/4709c365-b489-4529-a719-79a878652b3f" />
+
+Bomberman-Hero-Quest-3-VR-Standalone
 A standalone port of PC Bomberman Hero Recomp that runs natively on the MetaQuest 3.
 
 FEATURES
