@@ -13,6 +13,10 @@ Simply provide your copy of the 1.0 North American version of the game in the ma
 
 When screen recording on the MetaQuest headset, the resolution will drop to keep the framerate high.  When you stop recording, the resolution will revert back to normal. this is a MetaQuest bug and I am working on fixing.  
 
+## Credits
+Built on BomberMan Hero Recompiled, N64Recomp and RT64 (MIT licensed).
+Not affiliated with Nintendo, Meta or Kawasaki.
+
 ENJOY!
 
 follow me on all socials @VistaLargaGames
