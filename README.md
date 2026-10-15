@@ -15,7 +15,7 @@ When screen recording on the MetaQuest headset, the resolution will drop to keep
 
 ## Credits
 Built on BomberMan Hero Recompiled, N64Recomp and RT64 (MIT licensed).
-Not affiliated with Nintendo, Meta or Kawasaki.
+Not affiliated with Nintendo, Meta or Bomberman
 
 ENJOY!
 
